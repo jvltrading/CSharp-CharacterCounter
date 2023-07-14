@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projects\Character Count\bin\Debug\net7.0\Character Count.exe
+C:\Users\User\Desktop\Projects\Character Count\bin\Debug\net7.0\Character Count.deps.json
+C:\Users\User\Desktop\Projects\Character Count\bin\Debug\net7.0\Character Count.runtimeconfig.json
+C:\Users\User\Desktop\Projects\Character Count\bin\Debug\net7.0\Character Count.dll
+C:\Users\User\Desktop\Projects\Character Count\bin\Debug\net7.0\Character Count.pdb
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.dll
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\refint\Character Count.dll
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.pdb
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\Character Count.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\Character Count\obj\Debug\net7.0\ref\Character Count.dll
